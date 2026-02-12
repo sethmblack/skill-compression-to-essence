@@ -1,11 +1,10 @@
 ---
 name: compression-to-essence
-description: Strip any text to its essential meaning by removing unnecessary words
-  while preserving — and intensifying — core impact. Maximum meaning per word.
+description: Strip any text to its essential meaning by removing unnecessary words while preserving — and intensifying — core impact. Maximum meaning per word.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - compression
 - compression-to-essence
